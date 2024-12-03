@@ -1,5 +1,5 @@
 # AOC24
-My workign solutions to the puzzels in Advent of Code 2024. 
+My workign solutions to the puzzels in [Advent of Code 2024](https://adventofcode.com/2024). 
 
 Constraints:
 - The Repo does not contain the text of the problems or the input files, as per https://adventofcode.com/about ("Can I copy/redistribute part of Advent of Code?")
